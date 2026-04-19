@@ -9,9 +9,9 @@
 | Dataset ID | `894820` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 45 records |
-| Free sample size | 5 records (11.11%) |
-| Last export | 2026-04-01T00:12:52.125910+00:00 |
+| Full dataset size | 58 records |
+| Free sample size | 5 records (8.62%) |
+| Last export | 2026-04-15T01:49:49.723976+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-fort-worth-texas-us-sample-894820/releases/download/sample-latest/beamstation_894820_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
