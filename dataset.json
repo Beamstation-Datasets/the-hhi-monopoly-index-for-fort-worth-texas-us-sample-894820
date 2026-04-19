@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Fort Worth, Texas, US",
-  "export_job_id": "becbd031-91f4-463c-bb7e-a910f4ba3fd8",
+  "export_job_id": "283b0c95-a196-4690-af83-12ddb2df285b",
   "github_org": "Beamstation-Datasets",
   "id_short": 894820,
   "location_name": "Fort Worth",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-fort-worth-texas-us-sample-894820",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/894820/beamstation_894820_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 11.11,
+  "sample_pct": 8.62,
   "sample_records": 5,
   "sample_sha256": "3e4c2695dbdd2120f62835dc6a5123ce4c33ff9fa191a0cf398754bba8cb05a3",
   "sample_size_bytes": 33615,
-  "total_records": 45,
-  "updated_at": "2026-04-01T00:12:52.125910+00:00"
+  "total_records": 58,
+  "updated_at": "2026-04-15T01:49:49.723976+00:00"
 }
