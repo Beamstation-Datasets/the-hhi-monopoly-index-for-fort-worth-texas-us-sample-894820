@@ -1,12 +1,12 @@
 {
-  "export_job_id": "283b0c95-a196-4690-af83-12ddb2df285b",
+  "export_job_id": "08edaedc-cf91-4f25-be44-3fdbc7ad74e8",
   "id_short": 894820,
-  "published_at": "2026-04-19T07:16:39Z",
+  "published_at": "2026-04-22T19:06:12Z",
   "repo_name": "the-hhi-monopoly-index-for-fort-worth-texas-us-sample-894820",
   "sample_asset_name": "beamstation_894820_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/894820/beamstation_894820_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "3e4c2695dbdd2120f62835dc6a5123ce4c33ff9fa191a0cf398754bba8cb05a3",
-  "sample_size_bytes": 33615,
-  "total_records": 58
+  "sample_records": 4,
+  "sample_sha256": "8865966007690b3d2bef1ec1afa40d94af39d7ae4b46c32584e3e2b7fa439ad1",
+  "sample_size_bytes": 31381,
+  "total_records": 41
 }
