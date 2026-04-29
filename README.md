@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Fort Worth, Texas, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `894820` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-22T06:34:10.751587+00:00 |
+| Full dataset size | 63 records |
+| Free sample size | 6 records (9.52%) |
+| Last export | 2026-04-29T08:35:12.926182+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-fort-worth-texas-us-sample-894820/releases/download/sample-latest/beamstation_894820_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
